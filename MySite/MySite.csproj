@@ -2,6 +2,29 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <LangVersion>preview</LangVersion>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\images\About\Development" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="wwwroot\images\ef13b85cbb5f756288a0350c02b1961829537201.png" />
+      <Content Remove="wwwroot\images\favicon-32x32.png" />
+      <Content Remove="wwwroot\images\galaxy.jpg" />
+      <Content Remove="wwwroot\images\galaxy2.jpg" />
+      <Content Remove="wwwroot\images\galaxy3.jpg" />
+      <Content Remove="wwwroot\images\icon.png" />
+      <Content Remove="wwwroot\images\icon-about.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\images\reserved\favicon.ico" />
+    </ItemGroup>
 
 </Project>

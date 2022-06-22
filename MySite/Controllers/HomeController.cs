@@ -1,13 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
+using System.Net;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Logging;
 using MySite.Models;
+using MySite.Models.CsStatistics;
+using MySite.Models.CsStatistics.MapsStats;
+using MySite.Models.CsStatistics.ProfileStats;
+using MySite.Models.CsStatistics.WeaponsStats;
+using MySite.Models.Interfaces;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace MySite.Controllers
 {
@@ -15,35 +25,49 @@ namespace MySite.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IRequestCsGo _requestCs;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IRequestCsGo requestCs)
         {
             _logger = logger;
-         //   ViewData["Year"] = DateTime.Now.Year;
+            _requestCs = requestCs;
         }
 
         [Route("/")]
         public IActionResult Index()
         {
-          //  ViewData["Year"] = DateTime.Now.Year;
             return View();
         }
 
         [Route("About")]
         public IActionResult About()
         {
-          //  ViewData["Year"] = DateTime.Now.Year;
+            return View();
+        }
+
+        [Route("Social")]
+        public IActionResult Social()
+        {
             return View();
         }
         [Route("Test")]
         public IActionResult Test()
         {
-            return View();
-        }       
+            return Content($"{_requestCs.NextRequest} {DateTime.Now}");
+        }
+        [Route("Statistics")]
+        public IActionResult Statistics()
+        {
+            var data = _requestCs.GetData();
+            if (data == null)
+                return Content($"Error to load statistics. Try again at {_requestCs.NextRequest}");
+            return View(data);
+        }
+
         [Route("404")]
         public IActionResult NotFound()
         {
-            return View();
+            return View("NotFound");
         }
 
         [Route("Error")]

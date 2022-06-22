@@ -1,7 +1,317 @@
 ﻿@{
-   // ViewBag.Title = "About Me";
+    ViewBag.Title = "About Me";
     Layout = "_Layout";
-    ViewData["test"] = "About";
 }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="~/css/about.css"/>
+    <title>About Me</title>
+</head>
+<body>
+<div>
+<h1>About Me</h1>
+<div class="aboutList">
+    <div>
+        <img src="images/About/photo.png" alt="" class="photo">
+    </div>
 
-<h2>H</h2>
+    <div class="about">
+        @*<div class="test"></div>*@
+        <hr class="verticalHr"/>
+        @*<br> Name: <span class="test"></span>Skilloff.<br/>*@
+        <div>
+            <p class="alignLeft">Name</p>
+            <p class="alignRight">Vladislav</p>
+        </div>
+        <hr class="horizonHr"/><br/>
+        <div>
+            <p class="alignLeft">Age</p>
+            <p class="alignRight">21</p>
+        </div>
+        <hr class="horizonHr"/><br/>
+        <div>
+            <p class="alignLeft">NickName</p>
+            <p class="alignRight">Skilloff</p>
+        </div>
+        <hr class="horizonHr"/><br/>
+        <div>
+            <p class="alignLeft">Hobby</p>
+            <p class="alignRight">Development</p>
+        </div>
+        <hr class="horizonHr"/><br/>
+        <div>
+            <p class="alignLeft">About myself</p>
+            <p class="alignRight">Professional of Something Impossible and ambition killer</p>
+        </div>
+        <hr class="horizonHr"/><br/>
+        <div>
+            <p class="alignLeft">Vocation</p>
+            <p class="alignRight">Gamer</p>
+        </div>
+        <hr class="horizonHr"/><br/>
+    </div>
+</div>
+<hr class="horizonHrFullLine">
+<h1>Hardware</h1>
+<hr class="horizonHrFullLine"/>
+<div class="cardList">
+    <div class="card border-gradient">
+        <img alt="CPU" src="~/images/About/Hardwares/cpu.png">
+        <div class="cardText">
+            <h3>Proccesor</h3>
+            <p>Intel i7-4790K</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="GPU" float="left" src="~/images/About/Hardwares/gpu.png">
+        <div class="cardText">
+            <h3>Graphic card</h3>
+            <p>Gigabyte GTX 1070 8GB</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:65%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="RAM" src="~/images/About/Hardwares/ram.png">
+        <div class="cardText">
+            <h3>RAM</h3>
+            <p>Corsair 16GB(DDR3 1600MHz)</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:40%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Motherboard" src="~/images/About/Hardwares/motherboard.png">
+        <div class="cardText">
+            <h3>Motherboard</h3>
+            <p>ASUS TROOPER B85</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="PowerSupply" src="~/images/About/Hardwares/power-supply.png">
+        <div class="cardText">
+            <h3>Power supply</h3>
+            <p>Zalman 600W</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="PowerSupply" src="~/images/About/Hardwares/ssd.png">
+        <div class="cardText">
+            <h3>SSD</h3>
+            <p>Kingston 240GB</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="PowerSupply" src="~/images/About/Hardwares/hdd.png">
+        <div class="cardText">
+            <h3>HDD</h3>
+            <p>Seagate 1TB | Segate 3TB</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr class="horizonHrFullLine"/>
+<h1>Devices</h1>
+<hr class="horizonHrFullLine"/>
+<div class="cardList">
+    <div class="card border-gradient">
+        <img alt="Mouse" src="~/images/About/Devices/mouse.png">
+        <div class="cardText">
+            <h3>Mouse</h3>
+            <p>HyperX Pullsfire Core</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Keyboard" float="left" src="~/images/About/Devices/keyboard.png">
+        <div class="cardText">
+            <h3>Keyboard</h3>
+            <p>HyperX Alloy Core RGB</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Headphones" src="~/images/About/Devices/headphones.png">
+        <div class="cardText">
+            <h3>Headphones</h3>
+            <p>HyperX CloUd Alpha S</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="MouseMat" src="~/images/About/Devices/mouseMat.png">
+        <div class="cardText">
+            <h3>Mouse Mat</h3>
+            <p>400x900</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Microphone" src="~/images/About/Devices/microphone.png">
+        <div class="cardText">
+            <h3>Microphone</h3>
+            <p>BM-800</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:80%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Monitor" src="~/images/About/Devices/monitor.png">
+        <div class="cardText">
+            <h3>Monitor №1</h3>
+            <p>Asus VG278(Full HD, 144Hz)</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:80%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Monitor" src="~/images/About/Devices/monitor.png">
+        <div class="cardText">
+            <h3>Monitor №2</h3>
+            <p>AOC I2275PWQU(Full HD, 60Hz)</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Monitor" src="~/images/About/Devices/monitor.png">
+        <div class="cardText">
+            <h3>Monitor №3</h3>
+            <p>ACER K222HQL(Full HD, 60Hz)</p>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<hr class="horizonHrFullLine"/>
+<h1>Languages</h1>
+<hr class="horizonHrFullLine"/>
+<div class="cardList">
+    <div class="card border-gradient">
+        <img alt="Russian" src="~/images/About/Languages/russian.png">
+        <div class="cardText">
+            <h3>Russian</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Keyboard" float="left" src="~/images/About/Languages/belarus.png">
+        <div class="cardText">
+            <h3>Belorussian</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Keyboard" float="left" src="~/images/About/Languages/united-kingdom.png">
+        <div class="cardText">
+            <h3>English</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr class="horizonHrFullLine"/>
+<h1>Development</h1>
+<hr class="horizonHrFullLine"/>
+<div class="cardList">
+    <div class="card border-gradient">
+        <img alt="C#" src="~/images/About/Development/c-sharp.png">
+        <div class="cardText">
+            <h3>C-Sharp</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:70%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="ASP" float="left" src="~/images/About/Development/asp.png">
+        <div class="cardText">
+            <h3>ASP.Net</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:70%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="Unity" float="left" src="~/images/About/Development/unity.png">
+        <div class="cardText">
+            <h3>Unity</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:60%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="MongoDB" float="left" src="~/images/About/Development/database.png">
+        <div class="cardText">
+            <h3>MongoDB</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="html" float="left" src="~/images/About/Development/html.png">
+        <div class="cardText">
+            <h3>Html</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+    <div class="card border-gradient">
+        <img alt="CSS" float="left" src="~/images/About/Development/css.png">
+        <div class="cardText">
+            <h3>CSS</h3>
+            <div class="backgroundSlider">
+                <div class="sliderValue" style="width:50%"></div>
+            </div>
+        </div>
+    </div>
+        <div class="card border-gradient">
+            <img alt="GitHub" float="left" src="~/images/About/Development/github.png">
+            <div class="cardText">
+                <h3>GitHub</h3>
+                <div class="backgroundSlider">
+                    <div class="sliderValue" style="width:50%"></div>
+                </div>
+            </div>
+        </div>
+</div>
+</body>
+</html>

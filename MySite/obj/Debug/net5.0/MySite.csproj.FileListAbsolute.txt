@@ -38,5 +38,7 @@ F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\MySite.pd
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\MySite.genruntimeconfig.cache
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\MySite.csproj.CopyComplete
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
-F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\Test.cshtml.g.cs
-F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\NotFound.cshtml.g.cs
+F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\Statistics.cshtml.g.cs
+F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\Social.cshtml.g.cs

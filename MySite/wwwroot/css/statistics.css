@@ -1,0 +1,280 @@
+﻿h1{
+    margin:0;
+    text-align: center;
+}
+h3{
+    text-align: left;
+    margin: 5px;
+}
+footer{
+    display: none;
+}
+.footer{
+    text-align-last: center;
+    margin: 50px 0 0 0; 
+}
+.HeaderText{
+    font-size: 20px;
+    color:lavender;
+}
+.BodyText{
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+}
+
+.tablink:hover {
+    background-color: #777;
+}
+
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+.cardList {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    margin: 50px;
+    align-items: center;
+}
+.smallCard{
+    padding: 10px;
+    width: 220px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    background-size: cover;
+}
+.smallCardWeapon{
+    padding: 10px;
+    width: 180px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    background-size: cover;
+}
+.smallCard:hover{
+    background-color: gray;
+}
+#MapDust2:hover{
+    background-image: url("https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_dust2.jpg");
+}
+#MapInferno:hover{
+    background-image: url("https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_inferno.jpg");
+}
+#MapTrain:hover{
+    background-image: url("https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_train.jpg");
+}
+#MapNuke:hover {
+    background-image: url("https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_nuke.jpg");
+}
+#MapCobblestone:hover {
+    background-image: url("https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_cbble.jpg");
+}
+
+.smallCard hr{
+    float: left;
+    height: 100%;
+    width: 5px;
+    margin: 0 10px 0 0;
+    border: none;
+    background: darkred;
+    opacity: 0.4;
+}
+.smallCard hr:hover{
+    opacity: 1;
+}
+.smallCardWeapon:hover{
+    background-color: gray;
+}
+.smallCardWeapon h3{
+    margin: 10px 5px 10px 5px;
+    font-size: 18px;
+}
+
+.smallCardWeapon hr{
+    float: left;
+    height: 100%;
+    width: 5px;
+    margin: 0 10px 0 0;
+    border: none;
+    background: darkred;
+    opacity: 0.4;
+}
+.smallCardWeapon hr:hover{
+    opacity: 1;
+}
+.cardTextHeader {
+    
+}
+
+#Csgo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/Statistics/BackGroundCsGo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+#Dota {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/Statistics/BackGroundDota.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+
+#Valorant {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/Statistics/BackGroundValorant.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+#R6 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/Statistics/BackGroundR6.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: center;
+}
+
+@media (min-width: 769px) {
+    .smallCardListOneLine {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 50px 10px 50px;
+        align-items: center;
+    }
+    .cardsOneLine {
+        background-color: rgb(0,0,0,0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 1200px;
+        height: 200px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+    .smallCardListSeveralLines{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        margin: 50px;
+        align-items: center;
+    }
+    .cardsSeveralLines {
+        background-color: rgb(0,0,0,0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 1200px;
+        height: 450px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+    .cardsSeveralLinesMaps {
+        background-color: rgb(0, 0, 0, 0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 1200px;
+        height: 550px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+    .cardsOneLineWeapon {
+        background-color: rgb(0,0,0,0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 1200px;
+        height: 300px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+}
+@media (max-width: 768px) {
+    .smallCardListOneLine {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+        margin: 10px 50px 10px 50px;
+        align-items: center;
+    }
+    .cardsOneLine {
+        background-color: rgb(0,0,0,0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 100%;
+        height: 750px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+    .smallCardListSeveralLines {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+        margin: 50px;
+        align-items: center;
+    }
+    .cardsSeveralLines {
+        background-color: rgb(0,0,0,0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 100%;
+        height: 1200px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+    .cardsSeveralLinesMaps {
+        background-color: rgb(0, 0, 0, 0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 100%;
+        height: 2200px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+    .cardsOneLineWeapon {
+        background-color: rgb(0,0,0,0.4);
+        box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+        padding: 10px;
+        width: 100%;
+        height: 1250px;
+        align-items: center;
+        margin: 10px;
+        border: groove 2px darkred;
+        border-radius: 25px;
+    }
+}

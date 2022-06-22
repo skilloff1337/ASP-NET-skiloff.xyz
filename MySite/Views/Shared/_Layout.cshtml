@@ -1,22 +1,48 @@
-﻿<!DOCTYPE html>
+﻿@{
+    string RenderHeaderItem(string action, string value)
+    {
+        var cl = ViewContext.RouteData.Values["action"].ToString() == action ? "active" : string.Empty;
+        return  $"<a class=\"{cl}\" href=\"{Url.Action(action, "Home", null)}\">{value}</a>";
+    }
+}
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>@ViewData["Title"] - MySite</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="~/css/site.css"/>*@
     <link rel="stylesheet" href="~/css/layout.css"/>
+    @*<link rel="shortcut icon" href="https://www.youtube.com/s/desktop/a7767b34/img/favicon.ico" type="image/x-icon">*@
+    <link rel="shortcut icon" href="images/Logo/logo.png" type="image/x-icon">
 </head>
 <body>
 <header>
     <div class="topnav">
-        <a class="active" asp-controller="Home" asp-action="Index">Home</a>
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
-        <a asp-controller="Home" asp-action="About">About</a>
+        @Html.Raw(RenderHeaderItem("Index","Home"))
+        @Html.Raw(RenderHeaderItem("About","About Me"))
+        @Html.Raw(RenderHeaderItem("Statistics","Statistics"))
+        @Html.Raw(RenderHeaderItem("Social","Socials"))
     </div>
 </header>
+<script>
+
+function switchPos(id) {
+var elements = document.getElementById("test");
+var links = elements.getElementsByTagName("a");
+for (i = 0; i < links.length;i++)
+    {
+        if (i === id)
+            {
+                links[i].className += "active";
+                continue;
+            }
+        links[i].className = "";
+        }
+} 
+
+</script>
+
 <div class="container">
     <main role="main" class="pb-3">
         @RenderBody()
@@ -26,11 +52,11 @@
 
 <footer class="border-top footer text-muted">
     <div class="container" align="center">
-        Copyright &copy; Skilloff 2022-@Context.Items["Year"]. Все права защищены.
+        Copyright &copy; Skilloff 2022-@Context.Items["Year"]. All rights reserved.
     </div>
 </footer>
-<script src="~/lib/jquery/dist/jquery.min.js"></script>
-<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+@*<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>*@
 @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

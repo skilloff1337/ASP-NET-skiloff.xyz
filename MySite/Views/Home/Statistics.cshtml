@@ -1,0 +1,308 @@
+﻿@model MySite.Models.CsStatistics.AllStatistics
+@{
+    string GetProcents(int id)
+    {
+        var wins = (float) Model.Map.Data[id].MapsStats.Wins.Value;
+        var rounds = (float) Model.Map.Data[id].MapsStats.Rounds.Value;
+        return $"{(wins / rounds) * 100:0.0}%";
+    }
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/statistics.css" rel="stylesheet" type="text/css"/>
+    <title>Statistics</title>
+</head>
+<body>
+
+<div>
+    <button class="tablink" onclick="openPage('Csgo', this, 'red')" id="defaultOpen">Csgo</button>
+    <button class="tablink" onclick="openPage('Dota', this, 'green')">Dota</button>
+    <button class="tablink" onclick="openPage('Valorant', this, 'blue')">Valorant</button>
+    <button class="tablink" onclick="openPage('R6', this, 'orange')">R6</button>
+</div>
+
+<div id="Csgo" class="tabcontent">
+<h1><span style="color: chocolate">Skilloff</span> statistics [@Model.Profile.ProfileData.ProfilePlatformInfo.PlatformUserHandle] [7.000Hr+]</h1>
+<div class="cardList">
+<div class="cardsOneLine">
+    <H1>Kills</H1>
+    <div class="smallCardListOneLine">
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Kills</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Kills.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Deaths</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Deaths.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">K/D</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Kd.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Headshot kills</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Headshots.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">% Headshots</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.HeadshotPct.DisplayValue</h3>
+        </div>
+    </div>
+</div>
+@**@
+
+<div class="cardsOneLine">
+    <H1>Matches</H1>
+    <div class="smallCardListOneLine">
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Matches</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.MatchesPlayed.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Wins</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Wins.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Losses</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Losses.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">% Wins</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.WlPercentage.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">MVP</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Mvp.DisplayValue</h3>
+        </div>
+    </div>
+</div>
+<div class="cardsSeveralLines">
+    <H1>Othes</H1>
+    <div class="smallCardListSeveralLines">
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Shots fired</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.ShotsFired.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Shot hit</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.ShotsHit.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">% Shot Accuracy</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.ShotsAccuracy.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Bomb planted</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.BombsPlanted.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Bomb defused</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.BombsDefused.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Money Earned</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.MoneyEarned.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Damage</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.Damage.DisplayValue</h3>
+        </div>
+        <div class="smallCard">
+            <hr/>
+            <h3 class="HeaderText">Hostages rescued</h3>
+            <h3 class="BodyText">@Model.Profile.ProfileData.Segments[0].ProfileStats.HostagesRescued.DisplayValue</h3>
+        </div>
+    </div>
+</div>
+<div class="cardsSeveralLinesMaps">
+    <H1>Maps</H1>
+    <div class="smallCardListOneLine">
+        <div class="smallCard" id="MapDust2">
+            <hr/>
+            <h3 class="HeaderText">Rounds</h3>
+            <h3 class="BodyText">@Model.Map.Data[10].MapsStats.Rounds.DisplayValue</h3>
+        </div>
+        <div class="smallCard " id="MapInferno">
+            <hr/>
+            <h3 class="HeaderText">Rounds</h3>
+            <h3 class="BodyText">@Model.Map.Data[11].MapsStats.Rounds.DisplayValue</h3>
+        </div>
+        <div class="smallCard" id="MapTrain">
+            <hr/>
+            <h3 class="HeaderText">Rounds</h3>
+            <h3 class="BodyText">@Model.Map.Data[18].MapsStats.Rounds.DisplayValue</h3>
+        </div>
+        <div class="smallCard" id="MapNuke">
+            <hr/>
+            <h3 class="HeaderText">Rounds</h3>
+            <h3 class="BodyText">@Model.Map.Data[13].MapsStats.Rounds.DisplayValue</h3>
+        </div>
+        <div class="smallCard" id="MapCobblestone">
+            <hr/>
+            <h3 class="HeaderText">Rounds</h3>
+            <h3 class="BodyText">@Model.Map.Data[8].MapsStats.Rounds.DisplayValue</h3>
+        </div>
+    </div>
+    <div class="smallCardListOneLine">
+        <div class="smallCard" id="MapDust2">
+            <hr/>
+            <h3 class="HeaderText">Wins</h3>
+            <h3 class="BodyText">@Model.Map.Data[10].MapsStats.Wins.DisplayValue</h3>
+        </div>
+        <div class="smallCard " id="MapInferno">
+            <hr/>
+            <h3 class="HeaderText">Wins</h3>
+            <h3 class="BodyText">@Model.Map.Data[11].MapsStats.Wins.DisplayValue</h3>
+        </div>
+        <div class="smallCard" id="MapTrain">
+            <hr/>
+            <h3 class="HeaderText">Wins</h3>
+            <h3 class="BodyText">@Model.Map.Data[18].MapsStats.Wins.DisplayValue</h3>
+        </div>
+        <div class="smallCard" id="MapNuke">
+            <hr/>
+            <h3 class="HeaderText">Wins</h3>
+            <h3 class="BodyText">@Model.Map.Data[13].MapsStats.Wins.DisplayValue</h3>
+        </div>
+        <div class="smallCard" id="MapCobblestone">
+            <hr/>
+            <h3 class="HeaderText">Wins</h3>
+            <h3 class="BodyText">@Model.Map.Data[8].MapsStats.Wins.DisplayValue</h3>
+        </div>
+    </div>
+    <div class="smallCardListOneLine">
+        <div class="smallCard" id="MapDust2">
+            <hr/>
+            <h3 class="HeaderText">% Wins</h3>
+            <h3 class="BodyText">@GetProcents(10)</h3>
+        </div>
+        <div class="smallCard " id="MapInferno">
+            <hr/>
+            <h3 class="HeaderText">% Wins</h3>
+            <h3 class="BodyText">@GetProcents(11)</h3>
+        </div>
+        <div class="smallCard" id="MapTrain">
+            <hr/>
+            <h3 class="HeaderText">% Wins</h3>
+            <h3 class="BodyText">@GetProcents(18)</h3>
+        </div>
+        <div class="smallCard" id="MapNuke">
+            <hr/>
+            <h3 class="HeaderText">% Wins</h3>
+            <h3 class="BodyText">@GetProcents(13)</h3>
+        </div>
+        <div class="smallCard" id="MapCobblestone">
+            <hr/>
+            <h3 class="HeaderText">% Wins</h3>
+            <h3 class="BodyText">@GetProcents(8)</h3>
+        </div>
+    </div>
+</div>
+<div class="cardsOneLineWeapon">
+    <H1>Weapons</H1>
+    <div class="smallCardListOneLine">
+        <div class="smallCardWeapon">
+            <div class="imgWeapon"></div>
+            <hr/>
+            <h3>Name: @Model.Weapon.Data[2].WeaponMetadata.Name</h3>
+            <h3>Kills: @Model.Weapon.Data[2].WeaponStats.Kills.DisplayValue</h3>
+            <h3>Shots: @Model.Weapon.Data[2].WeaponStats.ShotsFired.DisplayValue</h3>
+            <h3>Hits: @Model.Weapon.Data[2].WeaponStats.ShotsHit.DisplayValue</h3>
+            <h3>Accurancy: @Model.Weapon.Data[2].WeaponStats.ShotsAccuracy.DisplayValue</h3>
+        </div>
+        <div class="smallCardWeapon">
+            <hr/>
+            <h3>Name: @Model.Weapon.Data[0].WeaponMetadata.Name</h3>
+            <h3>Kills: @Model.Weapon.Data[0].WeaponStats.Kills.DisplayValue</h3>
+            <h3>Shots: @Model.Weapon.Data[0].WeaponStats.ShotsFired.DisplayValue</h3>
+            <h3>Hits: @Model.Weapon.Data[0].WeaponStats.ShotsHit.DisplayValue</h3>
+            <h3>Accurancy: @Model.Weapon.Data[0].WeaponStats.ShotsAccuracy.DisplayValue</h3>
+        </div>
+        <div class="smallCardWeapon">
+            <hr/>
+            <h3>Name: @Model.Weapon.Data[15].WeaponMetadata.Name</h3>
+            <h3>Kills: @Model.Weapon.Data[15].WeaponStats.Kills.DisplayValue</h3>
+            <h3>Shots: @Model.Weapon.Data[15].WeaponStats.ShotsFired.DisplayValue</h3>
+            <h3>Hits: @Model.Weapon.Data[15].WeaponStats.ShotsHit.DisplayValue</h3>
+            <h3>Accurancy: @Model.Weapon.Data[15].WeaponStats.ShotsAccuracy.DisplayValue</h3>
+        </div>
+        <div class="smallCardWeapon">
+            <hr/>
+            <h3>Name: USP</h3>
+            <h3>Kills: @Model.Weapon.Data[12].WeaponStats.Kills.DisplayValue</h3>
+            <h3>Shots: @Model.Weapon.Data[12].WeaponStats.ShotsFired.DisplayValue</h3>
+            <h3>Hits: @Model.Weapon.Data[12].WeaponStats.ShotsHit.DisplayValue</h3>
+            <h3>Accurancy: @Model.Weapon.Data[12].WeaponStats.ShotsAccuracy.DisplayValue</h3>
+        </div>
+        <div class="smallCardWeapon">
+            <hr/>
+            <h3>Name: @Model.Weapon.Data[4].WeaponMetadata.Name</h3>
+            <h3>Kills: @Model.Weapon.Data[4].WeaponStats.Kills.DisplayValue</h3>
+            <h3>Shots: @Model.Weapon.Data[4].WeaponStats.ShotsFired.DisplayValue</h3>
+            <h3>Hits: @Model.Weapon.Data[4].WeaponStats.ShotsHit.DisplayValue</h3>
+            <h3>Accurancy: @Model.Weapon.Data[4].WeaponStats.ShotsAccuracy.DisplayValue</h3>
+        </div>
+    </div>
+</div>
+</div>
+<h4 class="footer">The data is updated in real time. Data is taken from tracker.gg</h4>
+<h4 class="footer">Copyright &copy; Skilloff 2022-@Context.Items["Year"]. All rights reserved.</h4>
+</div>
+<div id="Valorant" class="tabcontent" style="height: 750px">
+    <h1>Comming soon or maybe not)</h1>
+</div>
+
+<div id="Dota" class="tabcontent" style="height: 750px">
+   <h1>Comming soon or maybe not)</h1>
+</div>
+
+<div id="R6" class="tabcontent" style="height: 750px">
+   <h1>Comming soon or maybe not)</h1>
+</div>
+
+</body>
+<script>
+function openPage(pageName, elmnt, color) {
+    // Hide all elements with class="tabcontent" by default */
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+
+    // Remove the background color of all tablinks/buttons
+    tablinks = document.getElementsByClassName("tablink");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.backgroundColor = "";
+    }
+
+    // Show the specific tab content
+    document.getElementById(pageName).style.display = "block";
+
+    // Add the specific color to the button used to open the tab content
+    elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+</html>

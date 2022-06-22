@@ -9,6 +9,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MySite.MiddleWares;
+using MySite.Models;
+using MySite.Models.Interfaces;
 
 namespace MySite
 {
@@ -24,12 +26,13 @@ namespace MySite
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddSingleton<IRequestCsGo, RequestCsGo>();
         }
         
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseMiddleware<ViewDataMiddleware>();
-            
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
