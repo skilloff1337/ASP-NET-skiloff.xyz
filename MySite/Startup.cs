@@ -10,7 +10,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MySite.MiddleWares;
 using MySite.Models;
-using MySite.Models.Interfaces;
+using MySite.Services;
+using MySite.Services.Interfaces;
 
 namespace MySite
 {

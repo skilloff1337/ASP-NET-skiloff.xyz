@@ -1,7 +1,7 @@
 ﻿using System;
 using MySite.Models.CsStatistics;
 
-namespace MySite.Models.Interfaces
+namespace MySite.Services.Interfaces
 {
     public interface IRequestCsGo
     {

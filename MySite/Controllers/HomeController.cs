@@ -15,7 +15,7 @@ using MySite.Models.CsStatistics;
 using MySite.Models.CsStatistics.MapsStats;
 using MySite.Models.CsStatistics.ProfileStats;
 using MySite.Models.CsStatistics.WeaponsStats;
-using MySite.Models.Interfaces;
+using MySite.Services.Interfaces;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
