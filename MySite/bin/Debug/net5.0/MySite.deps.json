@@ -19,7 +19,7 @@
       "NETCOREAPP3_0_OR_GREATER",
       "NETCOREAPP3_1_OR_GREATER"
     ],
-    "languageVersion": "preview",
+    "languageVersion": "9",
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,

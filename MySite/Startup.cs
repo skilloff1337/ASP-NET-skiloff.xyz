@@ -1,17 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MySite.MiddleWares;
-using MySite.Models;
 using MySite.Services;
-using MySite.Services.Interfaces;
+using MySite.Services.Implementations;
 
 namespace MySite
 {
@@ -27,7 +21,8 @@ namespace MySite
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddSingleton<IRequestCsGo, RequestCsGo>();
+            services.AddSingleton<ICsGoDataProvider, CsGoDataProvider>();
+            services.AddSingleton<ICsGoStatisticsFetcher, CsGoStatisticsFetcher>();
         }
         
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

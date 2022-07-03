@@ -1,23 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Net;
-using System.Text;
+﻿using System.Diagnostics;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Logging;
 using MySite.Models;
-using MySite.Models.CsStatistics;
-using MySite.Models.CsStatistics.MapsStats;
-using MySite.Models.CsStatistics.ProfileStats;
-using MySite.Models.CsStatistics.WeaponsStats;
-using MySite.Services.Interfaces;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+using MySite.Services;
 
 namespace MySite.Controllers
 {
@@ -25,12 +11,12 @@ namespace MySite.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IRequestCsGo _requestCs;
+        private readonly ICsGoDataProvider _cs;
 
-        public HomeController(ILogger<HomeController> logger, IRequestCsGo requestCs)
+        public HomeController(ILogger<HomeController> logger, ICsGoDataProvider cs)
         {
             _logger = logger;
-            _requestCs = requestCs;
+            _cs = cs;
         }
 
         [Route("/")]
@@ -50,17 +36,10 @@ namespace MySite.Controllers
         {
             return View();
         }
-        [Route("Test")]
-        public IActionResult Test()
-        {
-            return Content($"{_requestCs.NextRequest} {DateTime.Now}");
-        }
         [Route("Statistics")]
-        public IActionResult Statistics()
+        public async Task<IActionResult> Statistics()
         {
-            var data = _requestCs.GetData();
-            if (data == null)
-                return Content($"Error to load statistics. Try again at {_requestCs.NextRequest}");
+            var data = await _cs.GetData();
             return View(data);
         }
 
