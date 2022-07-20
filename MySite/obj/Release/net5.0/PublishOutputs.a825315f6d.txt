@@ -17,6 +17,11 @@ F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\database.png
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\github.png
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\html.png
+F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\postgreSQL.png
+F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\protocol.png
+F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\rider.png
+F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\sql.png
+F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\sqlServer.png
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Development\unity.png
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Devices\headphones.png
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Release\net5.0\publish\wwwroot\images\About\Devices\keyboard.png

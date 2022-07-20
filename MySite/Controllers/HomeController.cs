@@ -18,7 +18,6 @@ namespace MySite.Controllers
             _logger = logger;
             _cs = cs;
         }
-
         [Route("/")]
         public IActionResult Index()
         {

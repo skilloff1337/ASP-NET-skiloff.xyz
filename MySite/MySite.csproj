@@ -10,10 +10,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="wwwroot\images\About\Development" />
-    </ItemGroup>
-
-    <ItemGroup>
       <Content Remove="wwwroot\images\ef13b85cbb5f756288a0350c02b1961829537201.png" />
       <Content Remove="wwwroot\images\favicon-32x32.png" />
       <Content Remove="wwwroot\images\galaxy.jpg" />
