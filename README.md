@@ -5,8 +5,10 @@
 Также сервер получает данные статистики и отображает во вкладке "Statistics". Все страницы адаптированы под ПК и Телефоны.
 
 Посмотреть на готовый сайт можно по ссылке - [https//skilloff.xyz](https://skilloff.xyz/)
+
 **Использованные технологии:**
 - Newtonsoft
+- Частицы (By VincentGarreau)
 
 ## **EN**
 The site is based on the framework ASP .Net, made for yourself, with a small number of pages and information. This is my first experience with ASP.Net, JS, CSS and HTML.
