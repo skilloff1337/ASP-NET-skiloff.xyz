@@ -13,9 +13,10 @@ The site is based on the framework ASP .Net, made for yourself, with a small num
 The server also receives statistics data and displays it in the "Statistics" tab. All pages are adapted for PCs and Phones.
 
 You can view the finished site by following the link - [https//skiloff.xyz](http://skilloff.xyz/)
+
 **Technologies used:**
 - Newtonsoft
-
+- Particles (By VincentGarreau)
 
 <h1 align="center">Main page</h1>
 
