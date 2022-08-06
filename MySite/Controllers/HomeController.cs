@@ -35,6 +35,11 @@ namespace MySite.Controllers
         {
             return View();
         }
+        [Route("Projects")]
+        public IActionResult Projects()
+        {
+            return View();
+        }
         [Route("Statistics")]
         public async Task<IActionResult> Statistics()
         {

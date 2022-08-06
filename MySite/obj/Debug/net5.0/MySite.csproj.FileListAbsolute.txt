@@ -42,3 +42,4 @@ F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Vie
 F:\Project\My New Project 2022\Finished\MySite\MySite\bin\Debug\net5.0\Newtonsoft.Json.dll
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\Statistics.cshtml.g.cs
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\Social.cshtml.g.cs
+F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Debug\net5.0\Razor\Views\Home\Projects.cshtml.g.cs

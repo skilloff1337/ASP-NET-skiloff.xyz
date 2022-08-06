@@ -1,0 +1,60 @@
+﻿body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/Projects/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color:white;
+}
+div{
+    display: block;
+}
+a{
+    color:#673ab7
+}
+summary{
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+.content{
+    margin: 20px 0 0 0;
+    height: 750px;
+}
+.listProject{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.project{
+    width: 400px;
+    height: 330px;
+    box-shadow: rgb(149 157 165 / 20%) 0 8px 24px;
+    padding: 15px;
+    background: linear-gradient(#090e12, #111117) padding-box, linear-gradient(45deg, #433a3a, #224767) border-box;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    margin: 20px;
+}
+.project img {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    border-radius: 50%;
+    margin: 0 0px 0 155px;
+}
+.header {
+    text-align: center;
+    font-size: 18px;
+}
+.description{
+    text-align: center;
+}
+.urls{
+    margin: 30px 0 0 0;
+}
+.release{
+    float: right;
+    font-size: 14px;
+}
