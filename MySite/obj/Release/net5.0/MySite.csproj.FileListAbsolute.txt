@@ -42,3 +42,4 @@ F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Release\net5.0\MySite.
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Release\net5.0\ref\MySite.dll
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Release\net5.0\MySite.pdb
 F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Release\net5.0\MySite.genruntimeconfig.cache
+F:\Project\My New Project 2022\Finished\MySite\MySite\obj\Release\net5.0\Razor\Views\Home\Projects.cshtml.g.cs
