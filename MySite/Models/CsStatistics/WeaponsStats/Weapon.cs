@@ -5,6 +5,7 @@ namespace MySite.Models.CsStatistics.WeaponsStats
 {
     public class Weapon
     {
-        [JsonProperty("data")] public List<WeaponData> Data { get; set; }
+        [JsonProperty("data")]
+        public List<WeaponData> Data { get; set; } = new();
     }
 }

@@ -6,8 +6,8 @@ namespace MySite.Models.CsStatistics
 {
     public class AllStatistics
     {
-        public Maps Map { get; set; }
-        public Profile Profile { get; set; }
-        public Weapon Weapon { get; set; }
+        public Maps Map { get; set; } = new();
+        public Profile Profile { get; set; } = new();
+        public Weapon Weapon { get; set; } = new();
     }
 }

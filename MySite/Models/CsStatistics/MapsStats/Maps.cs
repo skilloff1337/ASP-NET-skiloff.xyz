@@ -5,6 +5,7 @@ namespace MySite.Models.CsStatistics.MapsStats
 {
     public class Maps
     {
-        [JsonProperty("data")] public List<MapsData> Data { get; set; }
+        [JsonProperty("data")]
+        public List<MapsData> Data { get; set; } = new();
     }
 }

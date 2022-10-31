@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Net;
+using System.Net.Mime;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
@@ -40,13 +41,17 @@ namespace MySite.Services.Implementations
                     Profile = await GetProfileStats(),
                     Weapon = await GetWeaponsStats()
                 };
+                var data = JsonConvert.SerializeObject(result,Formatting.Indented);
+                await File.WriteAllTextAsync(AppContext.BaseDirectory + "Stats.json",data);
                 return result;
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
                 _logger.LogError(1, e, "Error while getting data!");
-                throw;
+                
+                var text = await File.ReadAllTextAsync(AppContext.BaseDirectory + "Stats.json");
+                return JsonConvert.DeserializeObject<AllStatistics>(text);
             }
         }
 
