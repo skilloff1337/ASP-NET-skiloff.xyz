@@ -1,0 +1,4223 @@
+{
+  "Map": {
+    "data": [
+      {
+        "type": "map",
+        "attributes": {
+          "key": "ar_baggage"
+        },
+        "metadata": {
+          "name": "Baggage",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/ar_baggage.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 3,
+            "displayValue": "3",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 1,
+            "displayValue": "1",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "ar_monastery"
+        },
+        "metadata": {
+          "name": "Monastery",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/ar_monastery.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 5,
+            "displayValue": "5",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 3,
+            "displayValue": "3",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "ar_shoots"
+        },
+        "metadata": {
+          "name": "Shoots",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/ar_shoots.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 7,
+            "displayValue": "7",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 4,
+            "displayValue": "4",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "cs_assault"
+        },
+        "metadata": {
+          "name": "Assault",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/cs_assault.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 63,
+            "displayValue": "63",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 38,
+            "displayValue": "38",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "cs_italy"
+        },
+        "metadata": {
+          "name": "Italy",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/cs_italy.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 34,
+            "displayValue": "34",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 22,
+            "displayValue": "22",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "cs_office"
+        },
+        "metadata": {
+          "name": "Office",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/cs_office.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 754,
+            "displayValue": "754",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 356,
+            "displayValue": "356",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_aztec"
+        },
+        "metadata": {
+          "name": "Aztec",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_aztec.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 48,
+            "displayValue": "48",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 27,
+            "displayValue": "27",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_bank"
+        },
+        "metadata": {
+          "name": "Bank",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_bank.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 43,
+            "displayValue": "43",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 39,
+            "displayValue": "39",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_cbble"
+        },
+        "metadata": {
+          "name": "Cobblestone",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_cbble.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 15812,
+            "displayValue": "15,812",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 8059,
+            "displayValue": "8,059",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_dust"
+        },
+        "metadata": {
+          "name": "Dust",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_dust.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 137,
+            "displayValue": "137",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 65,
+            "displayValue": "65",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_dust2"
+        },
+        "metadata": {
+          "name": "Dust II",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_dust2.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 61441,
+            "displayValue": "61,441",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 31794,
+            "displayValue": "31,794",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_inferno"
+        },
+        "metadata": {
+          "name": "Inferno",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_inferno.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 36666,
+            "displayValue": "36,666",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 18519,
+            "displayValue": "18,519",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_lake"
+        },
+        "metadata": {
+          "name": "Lake",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_lake.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 163,
+            "displayValue": "163",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 52,
+            "displayValue": "52",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_nuke"
+        },
+        "metadata": {
+          "name": "Nuke",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_nuke.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 19654,
+            "displayValue": "19,654",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 9195,
+            "displayValue": "9,195",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_safehouse"
+        },
+        "metadata": {
+          "name": "Safehouse",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_safehouse.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 112,
+            "displayValue": "112",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 51,
+            "displayValue": "51",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_shorttrain"
+        },
+        "metadata": {
+          "name": "Shorttrain",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_train.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 9,
+            "displayValue": "9",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 1,
+            "displayValue": "1",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_stmarc"
+        },
+        "metadata": {
+          "name": "St. Marc",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_stmarc.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 30,
+            "displayValue": "30",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 19,
+            "displayValue": "19",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_sugarcane"
+        },
+        "metadata": {
+          "name": "Sugarcane",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_sugarcane.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 26,
+            "displayValue": "26",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 15,
+            "displayValue": "15",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_train"
+        },
+        "metadata": {
+          "name": "Train",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_train.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 21008,
+            "displayValue": "21,008",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 10691,
+            "displayValue": "10,691",
+            "displayType": "Number"
+          }
+        }
+      },
+      {
+        "type": "map",
+        "attributes": {
+          "key": "de_vertigo"
+        },
+        "metadata": {
+          "name": "Vertigo",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/maps/de_vertigo.jpg"
+        },
+        "expiryDate": "2022-10-31T11:01:59.2331242+03:00",
+        "stats": {
+          "rounds": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Rounds",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 941,
+            "displayValue": "941",
+            "displayType": "Number"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Round",
+            "category": "round",
+            "metadata": {
+              "name": null,
+              "imageUrl": null
+            },
+            "value": 463,
+            "displayValue": "463",
+            "displayType": "Number"
+          }
+        }
+      }
+    ]
+  },
+  "Profile": {
+    "data": {
+      "platformInfo": {
+        "platformSlug": "steam",
+        "platformUserId": "76561197965163731",
+        "platformUserHandle": "bring the map and I'll show you",
+        "platformUserIdentifier": "76561197965163731",
+        "avatarUrl": "https://avatars.akamai.steamstatic.com/7e371424fde3a3f80a4af9410390eba2fc33e130_full.jpg",
+        "additionalParameters": null
+      },
+      "userInfo": {
+        "userId": null,
+        "isPremium": false,
+        "isVerified": false,
+        "isInfluencer": false,
+        "isPartner": false,
+        "countryCode": "BY",
+        "customAvatarUrl": null,
+        "customHeroUrl": null,
+        "socialAccounts": null,
+        "pageviews": null,
+        "isSuspicious": null
+      },
+      "metadata": {
+        "name": null
+      },
+      "segments": [
+        {
+          "type": "overview",
+          "attributes": {},
+          "metadata": {
+            "name": "Lifetime"
+          },
+          "expiryDate": "2022-10-31T11:01:59.8924728+03:00",
+          "stats": {
+            "timePlayed": {
+              "rank": null,
+              "percentile": 99.1,
+              "displayName": "Time Played",
+              "displayCategory": "General",
+              "category": "general",
+              "metadata": {
+                "name": null
+              },
+              "value": 17115856.0,
+              "displayValue": "4,754h",
+              "displayType": "TimeSeconds"
+            },
+            "score": {
+              "rank": null,
+              "percentile": 99.2,
+              "displayName": "Score",
+              "displayCategory": "General",
+              "category": "general",
+              "metadata": {
+                "name": null
+              },
+              "value": 843429.0,
+              "displayValue": "843,429",
+              "displayType": "Number"
+            },
+            "kills": {
+              "rank": null,
+              "percentile": 99.7,
+              "displayName": "Kills",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 439746.0,
+              "displayValue": "439,746",
+              "displayType": "Number"
+            },
+            "deaths": {
+              "rank": null,
+              "percentile": 99.0,
+              "displayName": "Deaths",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 225083.0,
+              "displayValue": "225,083",
+              "displayType": "Number"
+            },
+            "kd": {
+              "rank": null,
+              "percentile": 96.5,
+              "displayName": "K/D",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 1.9537059662435634,
+              "displayValue": "1.95",
+              "displayType": "NumberPrecision2"
+            },
+            "damage": {
+              "rank": null,
+              "percentile": 99.7,
+              "displayName": "Damage",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 62862810.0,
+              "displayValue": "62,862,810",
+              "displayType": "Number"
+            },
+            "headshots": {
+              "rank": null,
+              "percentile": 99.7,
+              "displayName": "Headshots",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 239201.0,
+              "displayValue": "239,201",
+              "displayType": "Number"
+            },
+            "dominations": {
+              "rank": null,
+              "percentile": 71.0,
+              "displayName": "Dominations",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 314.0,
+              "displayValue": "314",
+              "displayType": "Number"
+            },
+            "shotsFired": {
+              "rank": null,
+              "percentile": 99.7,
+              "displayName": "Shots Fired",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 5557766.0,
+              "displayValue": "5,557,766",
+              "displayType": "Number"
+            },
+            "shotsHit": {
+              "rank": null,
+              "percentile": 99.7,
+              "displayName": "Shots Hit",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 1183665.0,
+              "displayValue": "1,183,665",
+              "displayType": "Number"
+            },
+            "shotsAccuracy": {
+              "rank": null,
+              "percentile": 69.0,
+              "displayName": "Shots Accuracy",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 21.29749615223095,
+              "displayValue": "21.3%",
+              "displayType": "NumberPercentage"
+            },
+            "snipersKilled": {
+              "rank": null,
+              "percentile": 99.5,
+              "displayName": "Snipers Killed",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 19878.0,
+              "displayValue": "19,878",
+              "displayType": "Number"
+            },
+            "dominationOverkills": {
+              "rank": null,
+              "percentile": 65.0,
+              "displayName": "Domination Overkills",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 254.0,
+              "displayValue": "254",
+              "displayType": "Number"
+            },
+            "dominationRevenges": {
+              "rank": null,
+              "percentile": 53.0,
+              "displayName": "Domination Revenges",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 74.0,
+              "displayValue": "74",
+              "displayType": "Number"
+            },
+            "bombsPlanted": {
+              "rank": null,
+              "percentile": 99.9,
+              "displayName": "Bombs Planted",
+              "displayCategory": "Objective",
+              "category": "objective",
+              "metadata": {
+                "name": null
+              },
+              "value": 17271.0,
+              "displayValue": "17,271",
+              "displayType": "Number"
+            },
+            "bombsDefused": {
+              "rank": null,
+              "percentile": 99.9,
+              "displayName": "Bombs Defused",
+              "displayCategory": "Objective",
+              "category": "objective",
+              "metadata": {
+                "name": null
+              },
+              "value": 8390.0,
+              "displayValue": "8,390",
+              "displayType": "Number"
+            },
+            "moneyEarned": {
+              "rank": null,
+              "percentile": 99.9,
+              "displayName": "Money Earned",
+              "displayCategory": "Objective",
+              "category": "objective",
+              "metadata": {
+                "name": null
+              },
+              "value": 887299356.0,
+              "displayValue": "887,299,356",
+              "displayType": "Number"
+            },
+            "hostagesRescued": {
+              "rank": null,
+              "percentile": 63.0,
+              "displayName": "Hostages Rescued",
+              "displayCategory": "Objective",
+              "category": "objective",
+              "metadata": {
+                "name": null
+              },
+              "value": 14.0,
+              "displayValue": "14",
+              "displayType": "Number"
+            },
+            "mvp": {
+              "rank": null,
+              "percentile": 99.8,
+              "displayName": "MVP",
+              "displayCategory": "Objective",
+              "category": "objective",
+              "metadata": {
+                "name": null
+              },
+              "value": 48369.0,
+              "displayValue": "48,369",
+              "displayType": "Number"
+            },
+            "wins": {
+              "rank": null,
+              "percentile": 98.8,
+              "displayName": "Wins",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 5400.0,
+              "displayValue": "5,400",
+              "displayType": "Number"
+            },
+            "ties": {
+              "rank": null,
+              "percentile": null,
+              "displayName": "Ties",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 0.0,
+              "displayValue": "0",
+              "displayType": "Number"
+            },
+            "matchesPlayed": {
+              "rank": null,
+              "percentile": 99.4,
+              "displayName": "Matches Played",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 10855.0,
+              "displayValue": "10,855",
+              "displayType": "Number"
+            },
+            "losses": {
+              "rank": null,
+              "percentile": 99.3,
+              "displayName": "Losses",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 5455.0,
+              "displayValue": "5,455",
+              "displayType": "Number"
+            },
+            "roundsPlayed": {
+              "rank": null,
+              "percentile": 99.9,
+              "displayName": "Rounds Played",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 312661.0,
+              "displayValue": "312,661",
+              "displayType": "Number"
+            },
+            "roundsWon": {
+              "rank": null,
+              "percentile": 98.8,
+              "displayName": "Rounds Won",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 5400.0,
+              "displayValue": "5,400",
+              "displayType": "Number"
+            },
+            "wlPercentage": {
+              "rank": null,
+              "percentile": 85.0,
+              "displayName": "Win %",
+              "displayCategory": "Round",
+              "category": "round",
+              "metadata": {
+                "name": null
+              },
+              "value": 49.7,
+              "displayValue": "49.7%",
+              "displayType": "NumberPercentage"
+            },
+            "headshotPct": {
+              "rank": null,
+              "percentile": 95.0,
+              "displayName": "Headshot %",
+              "displayCategory": "Combat",
+              "category": "combat",
+              "metadata": {
+                "name": null
+              },
+              "value": 54.4,
+              "displayValue": "54.4%",
+              "displayType": "NumberPercentage"
+            }
+          }
+        }
+      ],
+      "availableSegments": [],
+      "expiryDate": "2022-10-31T11:01:59.8924728+03:00"
+    }
+  },
+  "Weapon": {
+    "data": [
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "ak47",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "AK-47",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/197_icon-ak47.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.2,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 115636.0,
+            "displayValue": "115,636",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.5,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2563934.0,
+            "displayValue": "2,563,934",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.5,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 482845.0,
+            "displayValue": "482,845",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 56.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 18.832193028369684,
+            "displayValue": "18.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "aug",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "AUG",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/193_icon-aug.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 90.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1505.0,
+            "displayValue": "1,505",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 90.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 26177.0,
+            "displayValue": "26,177",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 90.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 5892.0,
+            "displayValue": "5,892",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 58.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 22.50830882072048,
+            "displayValue": "22.5%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "awp",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "AWP",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/191_icon-awp.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.9,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 148598.0,
+            "displayValue": "148,598",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.8,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 337646.0,
+            "displayValue": "337,646",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.8,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 148151.0,
+            "displayValue": "148,151",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 86.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 43.87761146289309,
+            "displayValue": "43.9%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "bizon",
+          "categoryKey": "smg"
+        },
+        "metadata": {
+          "name": "PP-Bizon",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/189_icon-bizon.png",
+          "category": "SMG"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 94.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 802.0,
+            "displayValue": "802",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 88.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 21104.0,
+            "displayValue": "21,104",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 87.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3639.0,
+            "displayValue": "3,639",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 35.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 17.243176648976497,
+            "displayValue": "17.2%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "deagle",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "Desert Eagle",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/184_icon-deagle.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.2,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 25826.0,
+            "displayValue": "25,826",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.4,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 215493.0,
+            "displayValue": "215,493",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.3,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 59589.0,
+            "displayValue": "59,589",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 65.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 27.652406342665426,
+            "displayValue": "27.7%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "elite",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "Dual Berettas",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/175_icon-elite.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 90.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 331.0,
+            "displayValue": "331",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 88.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 6891.0,
+            "displayValue": "6,891",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 87.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1269.0,
+            "displayValue": "1,269",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 38.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 18.415324336090553,
+            "displayValue": "18.4%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "famas",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "FAMAS",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/173_icon-famas.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 98.5,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3516.0,
+            "displayValue": "3,516",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 98.2,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 66181.0,
+            "displayValue": "66,181",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 98.1,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 13470.0,
+            "displayValue": "13,470",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 38.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 20.353273598162613,
+            "displayValue": "20.4%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "fiveseven",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "Five-SeveN",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/171_icon-fiveseven.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 71.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 379.0,
+            "displayValue": "379",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 95.8,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 32338.0,
+            "displayValue": "32,338",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 95.2,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 6311.0,
+            "displayValue": "6,311",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 41.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19.515739996289195,
+            "displayValue": "19.5%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "g3sg1",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "G3SG1",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/165_icon-g3sg1.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 88.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 414.0,
+            "displayValue": "414",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 79.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2784.0,
+            "displayValue": "2,784",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 62.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 328.0,
+            "displayValue": "328",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 5.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 11.781609195402298,
+            "displayValue": "11.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "galil",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "galil",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1413.0,
+            "displayValue": "1,413",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 31708.0,
+            "displayValue": "31,708",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 5166.0,
+            "displayValue": "5,166",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 16.292418317143937,
+            "displayValue": "16.3%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "galilar",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "Galil AR",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/162_icon-galilar.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 96.8,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2393.0,
+            "displayValue": "2,393",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 97.4,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 54741.0,
+            "displayValue": "54,741",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 96.1,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 8683.0,
+            "displayValue": "8,683",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 16.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 15.861968177417292,
+            "displayValue": "15.9%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "glock",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "Glock-18",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/161_icon-glock.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.4,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 11026.0,
+            "displayValue": "11,026",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.7,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 220177.0,
+            "displayValue": "220,177",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.6,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 39638.0,
+            "displayValue": "39,638",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 26.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 18.002788665482772,
+            "displayValue": "18.0%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "hkp2000",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "P2000",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/151_icon-hkp2000.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.6,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 31653.0,
+            "displayValue": "31,653",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.7,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 421080.0,
+            "displayValue": "421,080",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.7,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 97347.0,
+            "displayValue": "97,347",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 72.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 23.118409803362784,
+            "displayValue": "23.1%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "m249",
+          "categoryKey": "heavy"
+        },
+        "metadata": {
+          "name": "M249",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/105_icon-m249.png",
+          "category": "Heavy"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 87.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 255.0,
+            "displayValue": "255",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 77.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 5980.0,
+            "displayValue": "5,980",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 79.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 703.0,
+            "displayValue": "703",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 65.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 11.755852842809364,
+            "displayValue": "11.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "m3",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "m3",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 67.0,
+            "displayValue": "67",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2658.0,
+            "displayValue": "2,658",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 359.0,
+            "displayValue": "359",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 13.506395786305491,
+            "displayValue": "13.5%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "m4a1",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "M4A4",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/102_icon-m4a1.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.5,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 58285.0,
+            "displayValue": "58,285",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.6,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1040260.0,
+            "displayValue": "1,040,260",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.5,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 208209.0,
+            "displayValue": "208,209",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 45.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 20.015092380750964,
+            "displayValue": "20.0%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "mac10",
+          "categoryKey": "smg"
+        },
+        "metadata": {
+          "name": "MAC-10",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/96_icon-mac10.png",
+          "category": "SMG"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 85.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 880.0,
+            "displayValue": "880",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 80.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 23815.0,
+            "displayValue": "23,815",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 81.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 4625.0,
+            "displayValue": "4,625",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 53.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19.420533277346212,
+            "displayValue": "19.4%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "mag7",
+          "categoryKey": "heavy"
+        },
+        "metadata": {
+          "name": "MAG-7",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/94_icon-mag7.png",
+          "category": "Heavy"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 95.9,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 772.0,
+            "displayValue": "772",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 94.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19122.0,
+            "displayValue": "19,122",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 95.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 4696.0,
+            "displayValue": "4,696",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 73.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 24.55810061709026,
+            "displayValue": "24.6%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "mp5navy",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "mp5navy",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 344.0,
+            "displayValue": "344",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 9459.0,
+            "displayValue": "9,459",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1498.0,
+            "displayValue": "1,498",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 15.836769214504704,
+            "displayValue": "15.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "mp7",
+          "categoryKey": "smg"
+        },
+        "metadata": {
+          "name": "MP7",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/81_icon-mp7.png",
+          "category": "SMG"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 88.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1172.0,
+            "displayValue": "1,172",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 85.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 29069.0,
+            "displayValue": "29,069",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 84.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 5994.0,
+            "displayValue": "5,994",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 40.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 20.619904365475247,
+            "displayValue": "20.6%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "mp9",
+          "categoryKey": "smg"
+        },
+        "metadata": {
+          "name": "MP9",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/79_icon-mp9.png",
+          "category": "SMG"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 83.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 924.0,
+            "displayValue": "924",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 76.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 22168.0,
+            "displayValue": "22,168",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 78.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 4763.0,
+            "displayValue": "4,763",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 64.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 21.485925658607,
+            "displayValue": "21.5%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "negev",
+          "categoryKey": "heavy"
+        },
+        "metadata": {
+          "name": "Negev",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/77_icon-negev.png",
+          "category": "Heavy"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 62.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 224.0,
+            "displayValue": "224",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 69.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 20997.0,
+            "displayValue": "20,997",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 62.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 926.0,
+            "displayValue": "926",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 29.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 4.410153831499738,
+            "displayValue": "4.4%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "nova",
+          "categoryKey": "heavy"
+        },
+        "metadata": {
+          "name": "Nova",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/75_icon-nova.png",
+          "category": "Heavy"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 78.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 293.0,
+            "displayValue": "293",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 80.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 12661.0,
+            "displayValue": "12,661",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 74.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2039.0,
+            "displayValue": "2,039",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 13.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 16.104573098491432,
+            "displayValue": "16.1%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "p228",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "p228",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1653.0,
+            "displayValue": "1,653",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 46000.0,
+            "displayValue": "46,000",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 5214.0,
+            "displayValue": "5,214",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 11.334782608695653,
+            "displayValue": "11.3%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "p250",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "P250",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/72_icon-p250.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 99.7,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 13790.0,
+            "displayValue": "13,790",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 99.8,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 215424.0,
+            "displayValue": "215,424",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 99.8,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 48076.0,
+            "displayValue": "48,076",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 58.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 22.31691919191919,
+            "displayValue": "22.3%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "p90",
+          "categoryKey": "smg"
+        },
+        "metadata": {
+          "name": "P90",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/70_icon-p90.png",
+          "category": "SMG"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 65.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 696.0,
+            "displayValue": "696",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 60.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19110.0,
+            "displayValue": "19,110",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 63.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3701.0,
+            "displayValue": "3,701",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 73.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19.36682365253794,
+            "displayValue": "19.4%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "sawedoff",
+          "categoryKey": "heavy"
+        },
+        "metadata": {
+          "name": "Sawed-Off",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/60_icon-sawedoff.png",
+          "category": "Heavy"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 63.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 87.0,
+            "displayValue": "87",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 70.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3671.0,
+            "displayValue": "3,671",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 64.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 542.0,
+            "displayValue": "542",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 21.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 14.76436938163988,
+            "displayValue": "14.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "scar17",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "scar17",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 111.0,
+            "displayValue": "111",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2443.0,
+            "displayValue": "2,443",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 247.0,
+            "displayValue": "247",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 10.110519852640197,
+            "displayValue": "10.1%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "scar20",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "SCAR-20",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/57_icon-scar20.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 83.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 408.0,
+            "displayValue": "408",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 85.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3877.0,
+            "displayValue": "3,877",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 82.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 777.0,
+            "displayValue": "777",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 28.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 20.04126902244003,
+            "displayValue": "20.0%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "scout",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "scout",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3304.0,
+            "displayValue": "3,304",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 21850.0,
+            "displayValue": "21,850",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 6286.0,
+            "displayValue": "6,286",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 28.76887871853547,
+            "displayValue": "28.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "sg550",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "sg550",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 373.0,
+            "displayValue": "373",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3625.0,
+            "displayValue": "3,625",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 707.0,
+            "displayValue": "707",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19.50344827586207,
+            "displayValue": "19.5%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "sg552",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "sg552",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3293.0,
+            "displayValue": "3,293",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 21749.0,
+            "displayValue": "21,749",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 6263.0,
+            "displayValue": "6,263",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 28.796726286266033,
+            "displayValue": "28.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "sg556",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "SG 553",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/51_icon-sg556.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 97.4,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3799.0,
+            "displayValue": "3,799",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 89.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 30373.0,
+            "displayValue": "30,373",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 93.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 7870.0,
+            "displayValue": "7,870",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 94.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 25.911171105916438,
+            "displayValue": "25.9%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "ssg08",
+          "categoryKey": "rifle"
+        },
+        "metadata": {
+          "name": "SSG 08",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/45_icon-ssg08.png",
+          "category": "Rifle"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 98.5,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 4772.0,
+            "displayValue": "4,772",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 98.6,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 34774.0,
+            "displayValue": "34,774",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 98.6,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 9529.0,
+            "displayValue": "9,529",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 36.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 27.402657157646516,
+            "displayValue": "27.4%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "taser",
+          "categoryKey": "gear"
+        },
+        "metadata": {
+          "name": "Zeus x27",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/41_icon-taser.png",
+          "category": "Gear"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 75.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 57.0,
+            "displayValue": "57",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 84.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 455.0,
+            "displayValue": "455",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 95.0,
+            "displayValue": "95",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 20.87912087912088,
+            "displayValue": "20.9%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "tec9",
+          "categoryKey": "pistol"
+        },
+        "metadata": {
+          "name": "Tec-9",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/39_icon-tec9.png",
+          "category": "Pistol"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 96.6,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1957.0,
+            "displayValue": "1,957",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 96.9,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 41688.0,
+            "displayValue": "41,688",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 96.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 6629.0,
+            "displayValue": "6,629",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 15.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 15.901458453271925,
+            "displayValue": "15.9%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "tmp",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "tmp",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 344.0,
+            "displayValue": "344",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 9459.0,
+            "displayValue": "9,459",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 1498.0,
+            "displayValue": "1,498",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 15.836769214504704,
+            "displayValue": "15.8%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "ump45",
+          "categoryKey": "smg"
+        },
+        "metadata": {
+          "name": "UMP-45",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/36_icon-ump45.png",
+          "category": "SMG"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 98.7,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 3361.0,
+            "displayValue": "3,361",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 98.4,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 73676.0,
+            "displayValue": "73,676",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 98.4,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 14396.0,
+            "displayValue": "14,396",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 48.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 19.5396058417938,
+            "displayValue": "19.5%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "usp",
+          "categoryKey": null
+        },
+        "metadata": {
+          "name": "usp",
+          "imageUrl": null,
+          "category": "Unknown"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 23448.0,
+            "displayValue": "23,448",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 301277.0,
+            "displayValue": "301,277",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 74139.0,
+            "displayValue": "74,139",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 24.608250878759414,
+            "displayValue": "24.6%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      },
+      {
+        "type": "weapon",
+        "attributes": {
+          "key": "xm1014",
+          "categoryKey": "heavy"
+        },
+        "metadata": {
+          "name": "XM1014",
+          "imageUrl": "https://trackercdn.com/cdn/tracker.gg/csgo/weapons/29_icon-xm1014.png",
+          "category": "Heavy"
+        },
+        "expiryDate": "2022-10-31T11:02:02.835612+03:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 78.0,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 376.0,
+            "displayValue": "376",
+            "displayType": "Number"
+          },
+          "shotsFired": {
+            "rank": null,
+            "percentile": 72.0,
+            "displayName": "Shots Fired",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 10223.0,
+            "displayValue": "10,223",
+            "displayType": "Number"
+          },
+          "shotsHit": {
+            "rank": null,
+            "percentile": 79.0,
+            "displayName": "Shots Hit",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 2770.0,
+            "displayValue": "2,770",
+            "displayType": "Number"
+          },
+          "shotsAccuracy": {
+            "rank": null,
+            "percentile": 89.0,
+            "displayName": "Shots Accuracy",
+            "displayCategory": "Combat",
+            "category": "combat",
+            "metadata": {
+              "name": null,
+              "imageUrl": null,
+              "category": null
+            },
+            "value": 27.095764452704685,
+            "displayValue": "27.1%",
+            "displayType": "NumberPercentage"
+          }
+        }
+      }
+    ]
+  }
+}

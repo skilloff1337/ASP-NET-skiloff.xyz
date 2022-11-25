@@ -23,4 +23,8 @@
       <_ContentIncludedByDefault Remove="wwwroot\images\reserved\favicon.ico" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\images\About\Design" />
+    </ItemGroup>
+
 </Project>
